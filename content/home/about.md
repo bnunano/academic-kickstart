@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Nuclear Reactor Materials",
+    "Radiation Effects in Materials",
+    "Nanoscience"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Nuclear Physics"
+  institution = "Beijing Normal University"
+  year = 2010
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Material Physics and Chemstry"
+  institution = "Beijing Normal University"
+  year = 2007
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Polymer Material and Engineering"
+  institution = "Qingdao University of Science and Technology"
+  year = 2003
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+From 2010 to now, I am an assistant professor in the School of Nuclear and Engineering at North China Electric Power University in Beijing, China. In 2014.10-2014.12, I was a visiting scholar in the Goethe University following the implementation plan for the Marie Curie People International Research Staff Exchange program invited by Prof. Dr. Andrey Solov'yov.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My interests are in nuclear science and nanoscience including: fission and fusion reactor materials; neutron and charged particle radiation effects in materials; microdosimetry; graphene; fullerene. The objective is to explain and predict the properties of materials using first-principles theories, molecular dynamics, Monte Carlo methods and computation.
